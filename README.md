@@ -1,2 +1,3 @@
-# CPU-Logisim
-a small project of drawing a mini-CPU using Logisim as tool
+# Introduction-to-Computer-Systems
+## fall-2022
+for study only
